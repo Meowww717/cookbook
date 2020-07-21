@@ -1,0 +1,29 @@
+[
+    {
+        "id": "101",  
+        "title": "Triple Chocolate Cookies",
+        "dateAded": "20.05.2019",
+        "details": "Large or small, these triple chocolate cookies are crispy on the outside and chewy on the inside. Refrigerating the batter for 48 hours before baking is ideal, as this allows the dough to fully form its flavor.",
+        "oldVersions": [
+            
+        ]
+    },
+    {
+        "id": "102",  
+        "title": "Macadamia Nut Chocolate Chip Cookies",
+        "dateAded": "20.07.2019",
+        "details": "Drop cookies with macadamia nuts and chocolate chips!",
+        "oldVersions": [
+            
+        ]
+    },
+    {
+        "id": "103",  
+        "title": "Gluten-Free Magic Cookie Bars",
+        "dateAded": "20.07.2015",
+        "details": "A gluten-free version of classic magic cookie bars with layers.",
+        "oldVersions": [
+            
+        ]
+    }
+  ]
